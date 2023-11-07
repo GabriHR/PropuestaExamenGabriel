@@ -3,6 +3,6 @@
 using namespace std;
 int main(){
     for (int a=1;a<=17;a++){
-
+        for(int b=a+1;b<=17;b++)
     }
 }
